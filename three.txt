@@ -1,1 +1,3 @@
- Practicing by creating a new txt, then updated it, now will add it to git hub repo, in branch
+ -->Practicing by creating a new txt, then updated it, now will add it to git hub repo, in branch
+
+--> Update and push again to remote
